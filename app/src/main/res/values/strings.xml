@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">aplikasiMobil</string>
+    <string name="text1">
+        Mobil ini disebut terinspirasi dari Bugatti Type 57 SC Atlantic Coupe Aero No. 57453 tahun 1936 yang memiliki nama “La Voiture Noire”.
+        Untuk spesifikasi, mobil ini memiliki bodi streamline berwarna hitam mewah. Selain itu, bodi bespoke La Voiture Noire gabungkan elemen serat karbon dan cat “Black Carbon Glossy” untuk menghasilkan sensasi dramatis.
+    </string>
+
+    <string name="text2">
+        Mobil sport mahal ini dibalut warna gloss black di semua bagian bodinya. Sedangkan di bagian pelek roda berwarna sport black.
+        Pada wheel arches bagian depan dan belakang, ada aksen merah yang memberi kesan gagah.
+    </string>
+
+    <string name="text3">
+        Dari segi penampilan, Pagani terlihat mengadopsi pesawat jet Frecce Tricolori, yatu Aermacchi MB-339A P.A.N. Salah satu bagian yang mencoloknya adalah striping tricolore alias bendera Italia yang terpampang di bagian samping.
+        Untuk urusan performa, Pagani dihadirkan sistem airflow yang membuat aerodynamic mobil sport semakin mulus dan dapat melesat lebih cepat.
+    </string>
+
+    <string name="text4">
+        Kecepatannya yang dihasilkan bisa diakselerasikan dari 0 ke 100 km per jam hanya dalam waktu 2,9 detik saja. Selain itu, mobil ini bisa mencapai 355 km per jam kecepatan maksimumnya.
+        Menariknya, mobil ini hanya diproduksi sebanyak sembilan unit saja.Wah, siapa saja ya yang beruntung memilikinya?
+    </string>
+
+    <string name="text5">
+        Mobil sedan yang satu ini bisa dibilang jadi salah satu mobil yang cukup idaman. Terutama bagi mereka yang memiliki kenangan di era 1980-an hingga 1990-an.
+        Mobil yang menjadi generasi keempat dari Toyota Corolla ini saat ini menjadi salah satu mobil yang cukup digemari. Apakah kamu salah satunya?
+    </string>
+
+    <string name="text6">
+        Mobil yang pertama kali diperkenalkan pada 1983 ini juga menjadi mobil nostalgia. Banyak orang mencari mobil berpintu 2 ini untuk dibangun kembali.
+        Ada yang mengembalikan keadaan aslinya, ada juga yang membangun mobil ini untuk dimodifikasi. Sebagai mobil yang sudah berumur, mobil ini memiliki penyakit titik keropos yang cukup banyak.
+    </string>
+
+    <string name="text7">
+        Chevrolet Impala merupakan mobil mewah yang populer di akhir 1950-an hingga 1970-an. Pada awalnya, mobil ini merupakan versi mewahnya dari Chevrolet (Chevy) Bel Air.
+        Saat masa jayanya, Impala dibanderol dengan harga yang cukup mahal, loh. Di Indonesia, tidak semua orang mampu membeli mobil ini. Apalagi di 1963 hingga 1967, Indonesia sedang mengalami krisis moneter berupa hiperinflasi hingga 600 persen.
+    </string>
+</resources>
